@@ -1,0 +1,28 @@
+body{
+    background: skyblue;
+    height: 100%;
+}
+
+.maindiv{
+    width: 600px;
+    margin: 20px auto;
+    font-size: 50px;
+    color: black;
+    text-align: center;
+}
+
+h1{
+    font-size: 2.5rem;
+    text-transform: uppercase;
+    color: black;
+}
+
+button{
+    background-color: aquamarine;
+    color: black;
+    border: solid 1px black;
+    cursor: pointer;
+    padding: 18px 10px;
+    width: 180px;
+    margin: 10px;
+}
